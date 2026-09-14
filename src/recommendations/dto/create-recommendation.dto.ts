@@ -1,1 +1,5 @@
-export class CreateRecommendationDto {}
+export class CreateRecommendationDto {
+  userId: number;
+  bookIds: string[];
+  note?: string;
+}
