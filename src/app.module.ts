@@ -5,6 +5,7 @@ import { BooksModule } from './books/books.module.js';
 import { UsersModule } from './users/users.module.js';
 import { RecommendationsModule } from './recommendations/recommendations.module.js';
 import { PrismaModule } from './prisma/prisma.module.js';
+import { AuthModule } from './auth/auth.module.js';
 
 export const { ObserveModule, ObserveInstrument } = createObserveModule();
 
@@ -24,6 +25,7 @@ export const { ObserveModule, ObserveInstrument } = createObserveModule();
     BooksModule,
     UsersModule,
     RecommendationsModule,
+    AuthModule,
   ],
 })
 export class AppModule {}

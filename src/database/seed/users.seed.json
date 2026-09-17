@@ -1,0 +1,96 @@
+[
+  {
+    "email": "lotte.devries@school.nl",
+    "name": "Lotte de Vries",
+    "accountRole": { "permissions": ["read"], "studentTypes": ["vmbo"] },
+    "booksRead": [
+      { "bookId": "SEED-0001", "rating": 4, "readAt": "2026-02-10T09:00:00.000Z" },
+      { "bookId": "SEED-0033", "rating": 5, "readAt": "2026-03-02T09:00:00.000Z" }
+    ],
+    "readerProfile": { "leesniveau": "2F", "leesmotivatie": "hoog" },
+    "preferences": {
+      "genres": ["oorlog", "liefde"],
+      "authors": ["Anne Frank", "Annejet vd Zijl"],
+      "questions": ["Wat gebeurt er met de hoofdpersoon?"]
+    }
+  },
+  {
+    "email": "daan.bakker@school.nl",
+    "name": "Daan Bakker",
+    "accountRole": { "permissions": ["read"], "studentTypes": ["mbo"] },
+    "booksRead": [
+      { "bookId": "SEED-0031", "rating": 3, "readAt": "2026-01-20T09:00:00.000Z" }
+    ],
+    "readerProfile": { "leesniveau": "3F", "leesmotivatie": "gemiddeld" },
+    "preferences": {
+      "genres": ["mysterie", "thriller"],
+      "authors": ["Arthur Conan Doyle"],
+      "questions": ["Wie is de dader?"]
+    }
+  },
+  {
+    "email": "sanne.jansen@school.nl",
+    "name": "Sanne Jansen",
+    "accountRole": { "permissions": ["read"], "studentTypes": ["vmbo"] },
+    "booksRead": [],
+    "readerProfile": { "leesniveau": "2F", "leesmotivatie": "laag" },
+    "preferences": {
+      "genres": ["humor", "familie"],
+      "authors": ["Yvonne Kroonenberg"],
+      "questions": []
+    }
+  },
+  {
+    "email": "milan.devos@school.nl",
+    "name": "Milan de Vos",
+    "accountRole": { "permissions": ["read"], "studentTypes": ["havo"] },
+    "booksRead": [
+      { "bookId": "SEED-0023", "rating": 5, "readAt": "2026-02-28T09:00:00.000Z" },
+      { "bookId": "SEED-0018", "rating": 4, "readAt": "2026-03-15T09:00:00.000Z" }
+    ],
+    "readerProfile": { "leesniveau": "3F+", "leesmotivatie": "hoog" },
+    "preferences": {
+      "genres": ["vriendschap", "moraal"],
+      "authors": ["Tommy Wieringa", "Herman Koch"],
+      "questions": ["Wat is het gevolg van deze keuze?"]
+    }
+  },
+  {
+    "email": "fatima.elamrani@school.nl",
+    "name": "Fatima El Amrani",
+    "accountRole": { "permissions": ["read"], "studentTypes": ["vwo"] },
+    "booksRead": [
+      { "bookId": "SEED-0060", "rating": 5, "readAt": "2026-01-05T09:00:00.000Z" }
+    ],
+    "readerProfile": { "leesniveau": "3F", "leesmotivatie": "hoog" },
+    "preferences": {
+      "genres": ["identiteit", "ontwikkeling"],
+      "authors": ["Malala Yousafzai"],
+      "questions": []
+    }
+  },
+  {
+    "email": "j.dekker@school.nl",
+    "name": "Jasmijn Dekker",
+    "accountRole": { "permissions": ["read", "write", "manageClass"], "studentTypes": [] },
+    "booksRead": [],
+    "readerProfile": { "rol": "docent", "vakgebied": "Nederlands" },
+    "preferences": { "genres": [], "authors": [], "questions": [] }
+  },
+  {
+    "email": "r.smit@school.nl",
+    "name": "Ruben Smit",
+    "accountRole": { "permissions": ["read", "write", "manageClass"], "studentTypes": [] },
+    "booksRead": [],
+    "readerProfile": { "rol": "docent", "vakgebied": "Nederlands" },
+    "preferences": { "genres": [], "authors": [], "questions": [] }
+  },
+  {
+    "email": "admin@vrijlezenopmaat.nl",
+    "name": "Beheerder VLOM",
+    "accountRole": { "permissions": ["read", "write", "admin"], "studentTypes": [] },
+    "booksRead": [],
+    "readerProfile": { "rol": "beheerder" },
+    "preferences": { "genres": [], "authors": [], "questions": [] }
+  }
+]

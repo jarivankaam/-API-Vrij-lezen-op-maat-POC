@@ -1,0 +1,2273 @@
+[
+  {
+    "isbn": "SEED-0001",
+    "title": "Het dagboek van Anne Frank",
+    "author": "Anne Frank",
+    "genres": [
+      "WOII",
+      "onderduik"
+    ],
+    "summary": "Dagboek van een Joods meisje dat tijdens de Tweede Wereldoorlog onderduikt in Amsterdam. Haar persoonlijke observaties geven een indringend beeld van angst, hoop, groei en het dagelijks leven onder vervolging.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0002",
+    "title": "Blauw Water",
+    "author": "S. van der Vlugt",
+    "genres": [
+      "spanning",
+      "stalking"
+    ],
+    "summary": "Spannende thriller waarin een vrouw wordt geconfronteerd met stalking en bedreiging. Terwijl de spanning oploopt, moet zij alles op alles zetten om zichzelf en haar gezin te beschermen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/15246585-L.jpg"
+  },
+  {
+    "isbn": "SEED-0003",
+    "title": "Boer vindt vrouw",
+    "author": "H. van der Werf",
+    "genres": [
+      "liefde",
+      "relaties"
+    ],
+    "summary": "Toegankelijk verhaal over liefde, relaties en de zoektocht naar een passende partner. Het plattelandsleven vormt het decor voor herkenbare menselijke ervaringen en keuzes.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0004",
+    "title": "Cadeau voor u!",
+    "author": "Harry Mulisch",
+    "genres": [
+      "ontmoeting",
+      "verbondenheid"
+    ],
+    "summary": "Bundel toegankelijke verhalen over verrassende ontmoetingen, kleine gebaren en menselijke verbondenheid. De verhalen laten zien hoe gewone gebeurtenissen een bijzondere betekenis kunnen krijgen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0005",
+    "title": "De biecht",
+    "author": "Mickey Roorda",
+    "genres": [
+      "geheimen",
+      "schuld"
+    ],
+    "summary": "Verhaal waarin verborgen geheimen en persoonlijke keuzes centraal staan. Een bekentenis zet gebeurtenissen in gang die grote gevolgen hebben voor betrokkenen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0006",
+    "title": "De familie Blues",
+    "author": "Yvonne Kroonenberg",
+    "genres": [
+      "familie",
+      "humor"
+    ],
+    "summary": "Humoristische en herkenbare verhalen over familieleden die met elkaar botsen, samenwerken en elkaar nodig hebben. Alledaagse situaties zorgen voor warmte en relativerende humor.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0007",
+    "title": "De favoriete plekken van...",
+    "author": "Floortje Dessing",
+    "genres": [
+      "reizen",
+      "herinneringen"
+    ],
+    "summary": "Bekende Nederlanders vertellen over locaties die voor hen een bijzondere betekenis hebben. Persoonlijke herinneringen, reizen en ervaringen komen daarbij samen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0008",
+    "title": "De man van de bloemen",
+    "author": "Johan van Caeneghem",
+    "genres": [
+      "ontmoeting",
+      "hoop"
+    ],
+    "summary": "Ontroerend verhaal over een onverwachte ontmoeting die mensen met elkaar verbindt. Thema’s als aandacht, hoop en menselijkheid spelen een belangrijke rol.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0009",
+    "title": "de ontmoeting",
+    "author": "Johan van Caeneghem",
+    "genres": [
+      "ontmoeting",
+      "inzicht"
+    ],
+    "summary": "Kort verhaal waarin twee mensen elkaar onder bijzondere omstandigheden ontmoeten. Hun gesprek leidt tot nieuwe inzichten en veranderde perspectieven.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0010",
+    "title": "De val",
+    "author": "Marga Minco",
+    "genres": [
+      "oorlog",
+      "verlies"
+    ],
+    "summary": "Indringende novelle over de gevolgen van oorlog, verlies en herinnering. Het verleden blijft doorwerken in het leven van de personages.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0011",
+    "title": "De voorlezer",
+    "author": "Bernhard Schlink",
+    "genres": [
+      "schuld",
+      "oorlog"
+    ],
+    "summary": "Roman over een bijzondere relatie tussen een jongen en een oudere vrouw. Liefde, schuld en de verwerking van het Duitse oorlogsverleden staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0012",
+    "title": "De Wandelaar",
+    "author": "Adriaan van Dis",
+    "genres": [
+      "identiteit",
+      "zelfreflectie"
+    ],
+    "summary": "Na een ingrijpende gebeurtenis kijkt een man opnieuw naar zijn leven. Zijn omzwervingen leiden tot reflectie op identiteit, vrijheid en verbondenheid.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F+",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12667363-L.jpg"
+  },
+  {
+    "isbn": "SEED-0013",
+    "title": "Een echte man",
+    "author": "Yvonne Kroonenberg",
+    "genres": [
+      "identiteit",
+      "relaties"
+    ],
+    "summary": "Met humor onderzoekt dit boek verwachtingen rondom mannelijkheid, relaties en ouder worden. De personages zoeken naar geluk en authenticiteit.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0014",
+    "title": "Een goede truc",
+    "author": "Marjan Berk",
+    "genres": [
+      "creativiteit",
+      "doorzetten"
+    ],
+    "summary": "Licht en toegankelijk verhaal waarin slim handelen en creativiteit helpen om problemen op te lossen. Optimisme en doorzettingsvermogen staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0015",
+    "title": "Floortje Dessing reisverhalen",
+    "author": "Floortje Dessing",
+    "genres": [
+      "reizen",
+      "cultuur"
+    ],
+    "summary": "Verzameling reisverhalen waarin bijzondere bestemmingen, culturen en ontmoetingen centraal staan. De verhalen bieden inspiratie en een blik op de wereld.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0016",
+    "title": "Gormah Dade",
+    "author": "Gormah Dade",
+    "genres": [
+      "veerkracht",
+      "doorzetten"
+    ],
+    "summary": "Persoonlijk levensverhaal over veerkracht, doorzetten en het overwinnen van moeilijke omstandigheden. Een inspirerende zoektocht naar een betere toekomst.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0017",
+    "title": "Haar leven",
+    "author": "Anne Frank",
+    "genres": [
+      "biografie",
+      "oorlog"
+    ],
+    "summary": "Toegankelijke uitgave over het leven van Anne Frank. Het boek beschrijft haar achtergrond, onderduikperiode en blijvende betekenis voor latere generaties.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0018",
+    "title": "Het diner",
+    "author": "Herman Koch",
+    "genres": [
+      "familie",
+      "moraal"
+    ],
+    "summary": "Tijdens een ogenschijnlijk normaal diner komen pijnlijke familiegeheimen aan het licht. Morele dilemma’s en verantwoordelijkheid spelen een centrale rol.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/8296378-L.jpg"
+  },
+  {
+    "isbn": "SEED-0019",
+    "title": "Het Rosieproject",
+    "author": "Graeme Simsion",
+    "genres": [
+      "liefde",
+      "humor"
+    ],
+    "summary": "Een sociaal onhandige hoogleraar ontwikkelt een wetenschappelijk plan om een partner te vinden. Zijn leven verandert door onverwachte liefde.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0020",
+    "title": "Het verhaal van een vechter",
+    "author": "Gormah Dade",
+    "genres": [
+      "doorzetten",
+      "hoop"
+    ],
+    "summary": "Waargebeurd verhaal over iemand die ondanks tegenslagen blijft vechten voor een betere toekomst. Hoop en doorzettingsvermogen vormen de rode draad.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0021",
+    "title": "Ik omhels je met 1000 armen",
+    "author": "Ronald Giphart",
+    "genres": [
+      "rouw",
+      "familie"
+    ],
+    "summary": "Na het overlijden van zijn moeder probeert een jonge man zijn verlies te verwerken. Herinneringen, verdriet en liefde lopen door elkaar heen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0022",
+    "title": "In één klap",
+    "author": "Abbas Khider",
+    "genres": [
+      "migratie",
+      "verlies"
+    ],
+    "summary": "Verhaal over migratie, verlies en het opnieuw opbouwen van een bestaan. Het laat zien hoe ingrijpende gebeurtenissen een leven kunnen veranderen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0023",
+    "title": "Joe Speedboot",
+    "author": "Tommy Wieringa",
+    "genres": [
+      "vriendschap",
+      "opgroeien"
+    ],
+    "summary": "Vriendschap, ambitie en inventiviteit staan centraal in dit coming-of-ageverhaal. Een groep jongeren zoekt zijn weg in een landelijke omgeving.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F+",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12844770-L.jpg"
+  },
+  {
+    "isbn": "SEED-0024",
+    "title": "Joe Speedboot (makkelijk)",
+    "author": "Tommy Wieringa",
+    "genres": [
+      "vriendschap",
+      "opgroeien"
+    ],
+    "summary": "Vereenvoudigde versie van de bekende roman over vriendschap, avontuur en zelfontdekking. Geschikt voor lezers die extra toegankelijk leesmateriaal zoeken.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0025",
+    "title": "Komt een vrouw bij de dokter",
+    "author": "Kluun",
+    "genres": [
+      "liefde",
+      "ziekte"
+    ],
+    "summary": "Aangrijpende roman over liefde, ontrouw en ziekte. De relatie van een echtpaar wordt zwaar op de proef gesteld.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/13577826-L.jpg"
+  },
+  {
+    "isbn": "SEED-0026",
+    "title": "Mevrouw mijn moeder",
+    "author": "Yvonne Keuls",
+    "genres": [
+      "familie",
+      "humor"
+    ],
+    "summary": "Persoonlijke en vaak humoristische herinneringen aan een eigenzinnige moeder. Familiebanden en generatieverschillen staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/3711161-L.jpg"
+  },
+  {
+    "isbn": "SEED-0027",
+    "title": "Mijn favoriete recept",
+    "author": "bekende Nederlanders",
+    "genres": [
+      "eten",
+      "herinneringen"
+    ],
+    "summary": "Bekende Nederlanders delen favoriete recepten, herinneringen en persoonlijke verhalen. Eten vormt de aanleiding voor herkenbare levensverhalen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0028",
+    "title": "Moeder mijn vrouw",
+    "author": "Yvonne Keuls",
+    "genres": [
+      "familie",
+      "zorg"
+    ],
+    "summary": "Verhalen over familie, zorg en verbondenheid. De auteur beschrijft relaties tussen ouders, kinderen en partners met veel herkenning.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0029",
+    "title": "Moeder worden, moeder zijn",
+    "author": "Daphne Deckers",
+    "genres": [
+      "moederschap",
+      "opvoeding"
+    ],
+    "summary": "Persoonlijke verhalen en reflecties over zwangerschap, opvoeding en moederschap. De uitdagingen en mooie momenten komen uitgebreid aan bod.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0030",
+    "title": "Naar de haaien",
+    "author": "Rob Kamphues",
+    "genres": [
+      "humor",
+      "ervaringen"
+    ],
+    "summary": "Humoristische en vlot geschreven verhalen over bijzondere ervaringen, mediaoptredens en onverwachte gebeurtenissen uit het leven van de auteur.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0031",
+    "title": "Sherlock Holmes wereldverhalen",
+    "author": "Arthur Conan Doyle",
+    "genres": [
+      "mysterie",
+      "detective"
+    ],
+    "summary": "Bundel klassieke detectiveverhalen waarin Sherlock Holmes ingewikkelde mysteries oplost met scherpzinnige observaties, logica en oog voor detail. De verhalen bieden spanning en een inkijkje in het Victoriaanse Engeland.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0032",
+    "title": "Sonny Boy (makkelijk)",
+    "author": "Annejet vd Zijl",
+    "genres": [
+      "oorlog",
+      "liefde"
+    ],
+    "summary": "Vereenvoudigde versie van het waargebeurde verhaal over een verboden liefde in oorlogstijd. Moed, doorzettingsvermogen en menselijkheid staan centraal in deze toegankelijke bewerking.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0033",
+    "title": "Sonny Boy",
+    "author": "Annejet vd Zijl",
+    "genres": [
+      "oorlog",
+      "liefde"
+    ],
+    "summary": "Waargebeurde roman over de liefde tussen Rika en Waldemar. Hun relatie wordt zwaar beproefd door maatschappelijke vooroordelen en de Tweede Wereldoorlog.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/11716668-L.jpg"
+  },
+  {
+    "isbn": "SEED-0034",
+    "title": "Terug naar school",
+    "author": "Harm van Zutphen",
+    "genres": [
+      "onderwijs",
+      "ontwikkeling"
+    ],
+    "summary": "Toegankelijk verhaal over volwassenen die opnieuw onderwijs volgen. Het boek laat zien hoe leren kansen biedt voor persoonlijke groei en een nieuwe toekomst.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0035",
+    "title": "Twee Vrouwen",
+    "author": "H. Mulisch",
+    "genres": [
+      "liefde",
+      "verlies"
+    ],
+    "summary": "Psychologische roman over liefde, verlangen en verlies. Complexe relaties en emotionele afhankelijkheid zetten de levens van de hoofdpersonen onder druk.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F+",
+    "imageUrl": "https://covers.openlibrary.org/b/id/4402178-L.jpg"
+  },
+  {
+    "isbn": "SEED-0036",
+    "title": "Vrienden voor het leven",
+    "author": "P Pozzo di Borgo",
+    "genres": [
+      "vriendschap",
+      "veerkracht"
+    ],
+    "summary": "Waargebeurd verhaal over een bijzondere vriendschap tussen twee mannen uit totaal verschillende werelden. Hun band verandert hun kijk op het leven.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0037",
+    "title": "Zomerhuis met zwembad",
+    "author": "Herman Koch",
+    "genres": [
+      "moraal",
+      "schuld"
+    ],
+    "summary": "Een huisarts raakt betrokken bij een tragedie binnen een welgestelde vriendenkring. Schuld, macht en morele verantwoordelijkheid spelen een belangrijke rol.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F+",
+    "imageUrl": "https://covers.openlibrary.org/b/id/7355683-L.jpg"
+  },
+  {
+    "isbn": "SEED-0038",
+    "title": "Libello voor mannen",
+    "author": "Onbekend",
+    "genres": [],
+    "summary": "Toegankelijk tijdschrift voor laaggeletterde lezers met artikelen over gezondheid, relaties, werk en dagelijkse onderwerpen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "tijdschrift"
+  },
+  {
+    "isbn": "SEED-0039",
+    "title": "Libello voor vrouwen",
+    "author": "Onbekend",
+    "genres": [],
+    "summary": "Toegankelijk tijdschrift voor laaggeletterde lezers met artikelen over gezondheid, gezin, vrije tijd en maatschappelijke onderwerpen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "tijdschrift"
+  },
+  {
+    "isbn": "SEED-0040",
+    "title": "De Startkrant",
+    "author": "Onbekend",
+    "genres": [],
+    "summary": "Eenvoudig geschreven krant met actueel nieuws en achtergrondinformatie, speciaal ontwikkeld voor beginnende en minder ervaren lezers.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "krant (papier)"
+  },
+  {
+    "isbn": "SEED-0041",
+    "title": "De Startweekkrant",
+    "author": "Onbekend",
+    "genres": [],
+    "summary": "Wekelijkse digitale krant met begrijpelijke artikelen over actualiteit, samenleving en praktische onderwerpen voor volwassenen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "digitale krant"
+  },
+  {
+    "isbn": "SEED-0042",
+    "title": "Ik zal je vinden",
+    "author": "Monica Hesse",
+    "genres": [
+      "oorlog",
+      "familie"
+    ],
+    "summary": "Historische jeugdroman over moed, familie en overleven tijdens de Tweede Wereldoorlog. Geheimen uit het verleden bepalen de keuzes van de hoofdpersonen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0043",
+    "title": "De aankomst",
+    "author": "Bas Steman",
+    "genres": [
+      "migratie",
+      "hoop"
+    ],
+    "summary": "Verhaal over een nieuw begin, afscheid en het zoeken naar een plek in een onbekende omgeving. Doorzettingsvermogen en hoop staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0044",
+    "title": "Ode aan de verwondering",
+    "author": "Caroline Pauwels",
+    "genres": [
+      "filosofie",
+      "zingeving"
+    ],
+    "summary": "Filosofische beschouwingen over nieuwsgierigheid, verwondering en een betekenisvol leven. Het boek nodigt uit om anders naar de wereld te kijken.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F+",
+    "imageUrl": "https://covers.openlibrary.org/b/id/14563409-L.jpg"
+  },
+  {
+    "isbn": "SEED-0045",
+    "title": "Hotel rozenstok",
+    "author": "Christophe Vekeman",
+    "genres": [
+      "relaties",
+      "ontwikkeling"
+    ],
+    "summary": "Roman waarin uiteenlopende levens elkaar kruisen op een bijzondere locatie. Verlangen, persoonlijke keuzes en menselijke relaties vormen de rode draad.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0046",
+    "title": "De jongen in de gestreepte pyjama",
+    "author": "John Boyne",
+    "genres": [
+      "oorlog",
+      "vriendschap"
+    ],
+    "summary": "Ontroerend verhaal over de vriendschap tussen twee jongens aan weerszijden van een concentratiekamp tijdens de Tweede Wereldoorlog.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0047",
+    "title": "De Macht (Nederlandse vertaling)",
+    "author": "Noami Alderman",
+    "genres": [
+      "macht",
+      "gender"
+    ],
+    "summary": "Dystopische roman waarin vrouwen plotseling een nieuwe fysieke macht ontwikkelen. Het verhaal onderzoekt macht, ongelijkheid en maatschappelijke veranderingen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0048",
+    "title": "Fake Skating",
+    "author": "Lynn Painter",
+    "genres": [
+      "liefde",
+      "sport"
+    ],
+    "summary": "Romantisch verhaal waarin een schijnrelatie onverwacht echte gevoelens oproept. Liefde, sport en zelfontdekking komen op toegankelijke wijze samen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/15139935-L.jpg"
+  },
+  {
+    "isbn": "SEED-0049",
+    "title": "De vijf die blijven",
+    "author": "Holly Jackson",
+    "genres": [
+      "thriller",
+      "geheimen"
+    ],
+    "summary": "Spannende thriller vol geheimen, vriendschap en onverwachte wendingen. Een schokkende gebeurtenis brengt verborgen waarheden aan het licht.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0050",
+    "title": "Pizzamaffia slaat door",
+    "author": "Khalid Boudou",
+    "genres": [
+      "criminaliteit",
+      "jongeren"
+    ],
+    "summary": "Humoristisch en spannend verhaal over jongeren die in de problemen raken door criminaliteit. Loyaliteit, keuzes en verantwoordelijkheid staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0051",
+    "title": "Honderd: wat het leven je leert",
+    "author": "Heike Faller",
+    "genres": [
+      "levenslessen",
+      "zingeving"
+    ],
+    "summary": "Bijzondere illustraties en korte teksten brengen levenslessen samen. Het boek nodigt uit tot nadenken over ouder worden en levenswijsheid.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0052",
+    "title": "Moordgids voor lieve meisjes",
+    "author": "Holly Jackson",
+    "genres": [
+      "thriller",
+      "onderzoek"
+    ],
+    "summary": "Een scholier onderzoekt een oude moordzaak en ontdekt dat niet alles is zoals het lijkt. Spannende youngadultthriller met veel verrassingen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0053",
+    "title": "Blauwe plekken",
+    "author": "Anke de Vries",
+    "genres": [
+      "huiselijk geweld",
+      "veerkracht"
+    ],
+    "summary": "Indringend verhaal over huiselijk geweld en de gevolgen daarvan voor een jong meisje. Moed en veerkracht spelen een belangrijke rol.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0054",
+    "title": "Dode meisjes praten niet",
+    "author": "Sandra J. Paul",
+    "genres": [
+      "thriller",
+      "mysterie"
+    ],
+    "summary": "Thriller waarin een ogenschijnlijk afgesloten zaak nieuwe vragen oproept. Geheimen uit het verleden zorgen voor toenemende spanning.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0055",
+    "title": "Vals nest",
+    "author": "Beatrijs Peeters",
+    "genres": [
+      "identiteit",
+      "familie"
+    ],
+    "summary": "Jeugdroman over familiebanden, identiteit en de zoektocht naar je eigen plek. Geheimen uit het verleden beïnvloeden het heden.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0056",
+    "title": "Voor altijd jong (mijn leven met kanker)",
+    "author": "Jade Kops",
+    "genres": [
+      "ziekte",
+      "veerkracht"
+    ],
+    "summary": "Persoonlijk en aangrijpend verhaal over leven met kanker. De auteur deelt openhartig ervaringen, uitdagingen en momenten van hoop.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0057",
+    "title": "Vals",
+    "author": "Mel Wallis de Vries",
+    "genres": [
+      "thriller",
+      "bedrog"
+    ],
+    "summary": "Spannende thriller waarin vertrouwen, bedrog en geheimen centraal staan. Een onschuldige situatie loopt uit op gevaarlijke gebeurtenissen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12916209-L.jpg"
+  },
+  {
+    "isbn": "SEED-0058",
+    "title": "De macht",
+    "author": "Naomi Alderman",
+    "genres": [
+      "macht",
+      "samenleving"
+    ],
+    "summary": "Dystopische roman waarin traditionele machtsverhoudingen verschuiven. Het verhaal onderzoekt de invloed van macht op individuen en samenlevingen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0059",
+    "title": "Six more months of June",
+    "author": "Daisy Garrison",
+    "genres": [
+      "liefde",
+      "groei"
+    ],
+    "summary": "Romantisch verhaal over liefde, timing en persoonlijke groei. Twee jongeren proberen hun gevoelens en toekomstplannen met elkaar te verenigen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0060",
+    "title": "Op zoek naar mijn pad",
+    "author": "Malala Yousafzai",
+    "genres": [
+      "identiteit",
+      "ontwikkeling"
+    ],
+    "summary": "Inspirerend verhaal over identiteit, ambitie en doorzettingsvermogen. De auteur beschrijft haar persoonlijke zoektocht naar betekenis en verandering.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0061",
+    "title": "Lord of the flies",
+    "author": "Aimée de Jongh",
+    "genres": [
+      "macht",
+      "groepsdruk"
+    ],
+    "summary": "Graphic novelbewerking van het beroemde verhaal over een groep gestrande jongens. Macht, groepsdruk en beschaving worden op de proef gesteld.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0062",
+    "title": "Nog net niet dood",
+    "author": "Holly Jackson",
+    "genres": [
+      "thriller",
+      "mysterie"
+    ],
+    "summary": "Spannende thriller waarin een jonge onderzoeker een mysterieuze zaak probeert op te lossen. De waarheid blijkt gevaarlijk dichtbij.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0063",
+    "title": "Recht op geluk",
+    "author": "Leo Bormans",
+    "genres": [
+      "geluk",
+      "welzijn"
+    ],
+    "summary": "Positief en inspirerend boek over geluk, veerkracht en welzijn. Het biedt inzichten en praktische ideeën voor een betekenisvol leven.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0064",
+    "title": "De rechtsstaat moet je leren",
+    "author": "Geert Corstens",
+    "genres": [
+      "recht",
+      "burgerschap"
+    ],
+    "summary": "Toegankelijk boek over democratie, rechtspraak en burgerschap. Het laat zien waarom kennis van de rechtsstaat belangrijk is voor iedereen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0065",
+    "title": "Rosa Parks",
+    "author": "Marta Antelo",
+    "genres": [],
+    "summary": "Toegankelijke biografie over Rosa Parks, wier weigering om haar zitplaats af te staan uitgroeide tot een belangrijk moment in de strijd tegen racisme en gelijke rechten.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0066",
+    "title": "Moordonderzoek",
+    "author": "Malcolm Rose",
+    "genres": [],
+    "summary": "Interactieve detective waarin de lezer aanwijzingen onderzoekt, verdachten analyseert en stap voor stap een complexe misdaad probeert op te lossen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0067",
+    "title": "Zonder spijt",
+    "author": "Pieter Aspe",
+    "genres": [],
+    "summary": "Spannende detectiveroman waarin een onderzoek steeds meer verborgen motieven en geheimen blootlegt. De zoektocht naar de waarheid staat centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/11931979-L.jpg"
+  },
+  {
+    "isbn": "SEED-0068",
+    "title": "Het geluid van de stilte",
+    "author": "Inez Weski",
+    "genres": [],
+    "summary": "Persoonlijk relaas over rechtspraak, media-aandacht en maatschappelijke discussies. Reflecties op keuzes, verantwoordelijkheid en publieke beeldvorming lopen door het verhaal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "boek",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0069",
+    "title": "De zaak Ridouan T.",
+    "author": "Hans Werdmolder",
+    "genres": [],
+    "summary": "Non-fictieboek over georganiseerde criminaliteit in Nederland. Het beschrijft achtergronden, ontwikkelingen en de impact van een geruchtmakende strafzaak.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0070",
+    "title": "Het Proces",
+    "author": "Franz Kafka",
+    "genres": [],
+    "summary": "Klassieke roman waarin een man zonder duidelijke reden wordt vervolgd. Machteloosheid, bureaucratie en vervreemding vormen de kern van het verhaal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0071",
+    "title": "De zweetvoetenman",
+    "author": "Annet Huizing",
+    "genres": [],
+    "summary": "Toegankelijk en informatief boek dat jongeren laat kennismaken met rechtspraak, wetten en juridische dilemma’s aan de hand van herkenbare voorbeelden.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0072",
+    "title": "Goed Verzekerd",
+    "author": "Jan Klinchenberg",
+    "genres": [],
+    "summary": "Praktisch verhaal over financiële keuzes, risico’s en verantwoordelijkheid. Toegankelijke voorbeelden maken complexe onderwerpen begrijpelijk.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0073",
+    "title": "De strafzaak tegen Willem Holleeder",
+    "author": "Frank Wieland",
+    "genres": [],
+    "summary": "Reconstructie van een van de bekendste Nederlandse strafzaken. Het boek belicht onderzoek, bewijsvoering en de werking van het rechtssysteem.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0074",
+    "title": "Wie zit in de gevangenis? En andere bijzondere weetjes over misdaad en straf.",
+    "author": "Charlotte Colman en Stefanie Van Hertem",
+    "genres": [],
+    "summary": "Informatief boek vol verrassende feiten over criminaliteit, straffen en gevangenissen. Complexe onderwerpen worden helder en toegankelijk uitgelegd.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0075",
+    "title": "Het laatste woord",
+    "author": "Milouska Meulens",
+    "genres": [],
+    "summary": "Indringend waargebeurd verhaal over opgroeien binnen de jeugdzorg. Veerkracht, identiteit en de zoektocht naar een veilige toekomst staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0076",
+    "title": "Mooie Mauti",
+    "author": "Lydia Rood",
+    "genres": [],
+    "summary": "Aangrijpend verhaal over verslaving, criminaliteit en persoonlijke keuzes. De hoofdpersoon probeert ondanks moeilijke omstandigheden zijn leven richting te geven.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0077",
+    "title": "De gelukvinder",
+    "author": "Edward van de Vendel",
+    "genres": [],
+    "summary": "Ontroerend verhaal over een vluchteling die een nieuw bestaan probeert op te bouwen. Hoop, vriendschap en menselijkheid spelen een belangrijke rol.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/11082209-L.jpg"
+  },
+  {
+    "isbn": "SEED-0078",
+    "title": "Latino King",
+    "author": "Bibi Dumon Tak",
+    "genres": [],
+    "summary": "Waargebeurd verhaal dat inzicht geeft in jeugdcriminaliteit, groepsdruk en de gevolgen van keuzes. Een indringend portret van een jonge dader.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0079",
+    "title": "Zusje",
+    "author": "Janneke Schotveld",
+    "genres": [],
+    "summary": "Verhaal over verlies, familiebanden en geloof. De personages zoeken naar manieren om verdriet te verwerken en opnieuw houvast te vinden.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0080",
+    "title": "Voor jou tien anderen",
+    "author": "Mirjam Oldenhave",
+    "genres": [],
+    "summary": "Jeugdroman over pleegzorg, verwaarlozing en de behoefte aan geborgenheid. Het verhaal laat zien hoe belangrijk vertrouwen kan zijn.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0081",
+    "title": "De roadtrip",
+    "author": "Khalid Boudou",
+    "genres": [],
+    "summary": "Tijdens een reis worden verschillende generaties geconfronteerd met hun verwachtingen, verschillen en dromen. Humor en herkenning gaan hand in hand.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0082",
+    "title": "Badjens",
+    "author": "Delphine Minoui",
+    "genres": [],
+    "summary": "Roman over moedige vrouwen die zich verzetten tegen onderdrukking. Vrijheid, solidariteit en persoonlijke offers vormen belangrijke thema’s.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0083",
+    "title": "Het blauw van de oceaan",
+    "author": "Zoulfa Katouh",
+    "genres": [],
+    "summary": "Actuele roman over identiteit, discriminatie en de zoektocht naar een veilige plek in de wereld. Liefde en familie spelen mee.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0084",
+    "title": "Impact",
+    "author": "Mirjam Mous",
+    "genres": [],
+    "summary": "Spannend verhaal waarin jongeren te maken krijgen met oorlog, geweld en moeilijke keuzes. Overleven en veerkracht staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0085",
+    "title": "Het meisje dat er niet mocht zijn",
+    "author": "Wilma Geldof",
+    "genres": [],
+    "summary": "Historische roman over een jong meisje tijdens de Tweede Wereldoorlog. Geheimen, moed en overlevingskracht bepalen haar lot.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0086",
+    "title": "Soundtrack",
+    "author": "Jason Reynolds",
+    "genres": [],
+    "summary": "Coming-of-ageverhaal waarin muziek een belangrijke rol speelt. Vriendschap, talent en het vinden van een eigen stem staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0087",
+    "title": "Kade 17",
+    "author": "Gerard van Gemert",
+    "genres": [],
+    "summary": "Jeugdthriller over drugscriminaliteit, verleiding en gevaar. Jongeren raken betrokken bij gebeurtenissen die steeds grotere gevolgen krijgen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0088",
+    "title": "Het geheim. Vijf generaties, één verleden",
+    "author": "Brigitte van Aken",
+    "genres": [],
+    "summary": "Familieverhaal waarin meerdere generaties worden verbonden door een verborgen geschiedenis. Het verleden werkt door in het heden.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0089",
+    "title": "Klopjacht",
+    "author": "Patrick van der Valk",
+    "genres": [],
+    "summary": "Spannend verhaal over opsporing, onderzoek en achtervolging. Personages moeten onder grote druk belangrijke beslissingen nemen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0090",
+    "title": "Hoe ik talent voor het leven kreeg",
+    "author": "Rodaan Al Galidi",
+    "genres": [],
+    "summary": "Roman over migratie, integratie en doorzettingsvermogen. Met humor en zelfspot beschrijft de auteur zijn weg naar een nieuw leven.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10446833-L.jpg"
+  },
+  {
+    "isbn": "SEED-0091",
+    "title": "Het kan ook nooit normaal",
+    "author": "Lieke Hester",
+    "genres": [],
+    "summary": "Persoonlijke verhalen uit de politiepraktijk laten zien hoe complex, verrassend en menselijk het dagelijks werk van agenten is.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0092",
+    "title": "Held in eigen verhaal",
+    "author": "Iris Enthoven",
+    "genres": [],
+    "summary": "Bundel waargebeurde overlevingsverhalen van mensen die moeilijke omstandigheden hebben overwonnen. Inspiratie en veerkracht staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0093",
+    "title": "De vrolijke advocaat",
+    "author": "Lex de Jager",
+    "genres": [],
+    "summary": "Toegankelijke inkijk in het werk van een advocaat. Juridische dilemma’s en praktijkvoorbeelden worden helder en vaak humoristisch beschreven.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0094",
+    "title": "Drop dead famous",
+    "author": "Jennifer Pearson",
+    "genres": [],
+    "summary": "Youngadultthriller waarin roem, muziek en misdaad samenkomen. Geheimen en onverwachte gebeurtenissen zorgen voor een hoog spanningsniveau.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0095",
+    "title": "Waar ben je?",
+    "author": "Anna van Praag",
+    "genres": [],
+    "summary": "Een jeugdroman over vriendschap, familiebanden en een onverwacht mysterie. Tijdens haar zoektocht ontdekt de hoofdpersoon dat niet iedereen is wie hij lijkt te zijn.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0096",
+    "title": "Oxford Blood",
+    "author": "Rachael Davis",
+    "genres": [],
+    "summary": "Spannende thriller die zich afspeelt in een academische omgeving. Geheimen, rivaliteit en gevaar zorgen ervoor dat niets is wat het lijkt.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0097",
+    "title": "Confrontaties",
+    "author": "Simone Atangana Bekono",
+    "genres": [],
+    "summary": "Indringende roman over identiteit, woede en zelfbeheersing. Een jonge vrouw worstelt met haar verleden, relaties en haar plek in de samenleving.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0098",
+    "title": "Beth is dead",
+    "author": "Katie Bernet",
+    "genres": [],
+    "summary": "Thriller waarin een sterfgeval een reeks verborgen geheimen blootlegt. Vrienden en bekenden blijken meer te weten dan zij willen toegeven.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0099",
+    "title": "Gamechanger",
+    "author": "Neal Shusterman",
+    "genres": [],
+    "summary": "Een jongen ontdekt hoe kleine veranderingen grote gevolgen hebben voor zijn leven. Het verhaal onderzoekt vooroordelen, privileges en maatschappelijke ongelijkheid.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10330125-L.jpg"
+  },
+  {
+    "isbn": "SEED-0100",
+    "title": "The hate u give",
+    "author": "Angie Thomas",
+    "genres": [],
+    "summary": "Aangrijpende youngadultroman over racisme, politiegeweld en maatschappelijke ongelijkheid. Een tienermeisje wordt geconfronteerd met de gevolgen van een schokkende gebeurtenis.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/11521588-L.jpg"
+  },
+  {
+    "isbn": "SEED-0101",
+    "title": "De erfenis 1",
+    "author": "Jennifer Lynn Barnes",
+    "genres": [],
+    "summary": "Een onverwachte nalatenschap brengt een jong meisje terecht in een wereld vol puzzels, familiegeheimen en gevaarlijke intriges.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0102",
+    "title": "De verloren erfgenaam 2",
+    "author": "Jennifer Lynn Barnes",
+    "genres": [],
+    "summary": "Vervolg waarin nieuwe aanwijzingen leiden naar verborgen familiegeschiedenissen. Vertrouwen, verraad en macht spelen een steeds grotere rol.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0103",
+    "title": "De laatste zet",
+    "author": "Jennifer Lynn Barnes",
+    "genres": [],
+    "summary": "Het slot van een spannende serie waarin geheimen worden onthuld en ingewikkelde puzzels eindelijk samenkomen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0104",
+    "title": "Feilloos",
+    "author": "Elsie Silver",
+    "genres": [],
+    "summary": "Romantische roman over aantrekkingskracht, vertrouwen en persoonlijke groei. Twee mensen ontdekken dat liefde vaak ingewikkelder is dan verwacht.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0105",
+    "title": "Deze zomer wordt echt anders",
+    "author": "Carley Fortune",
+    "genres": [],
+    "summary": "Zomerse roman waarin liefde, herinneringen en nieuwe keuzes samenkomen. Een vakantie verandert het leven van de hoofdpersoon voorgoed.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0106",
+    "title": "Heated Rivalry",
+    "author": "Rachel Reid",
+    "genres": [],
+    "summary": "Romantisch verhaal over rivaliteit, ambitie en verboden gevoelens. Twee topsporters ontdekken dat competitie en liefde moeilijk te scheiden zijn.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/15226452-L.jpg"
+  },
+  {
+    "isbn": "SEED-0107",
+    "title": "One of us is lying",
+    "author": "Karin McManus",
+    "genres": [],
+    "summary": "Populaire thriller waarin vijf leerlingen een straf uitzitten, maar slechts vier het lokaal verlaten. Iedereen heeft iets te verbergen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "3F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12503935-L.jpg"
+  },
+  {
+    "isbn": "SEED-0108",
+    "title": "Shoot-out",
+    "author": "Margje Woodrow",
+    "genres": [],
+    "summary": "Jeugdthriller vol spanning en onverwachte gebeurtenissen. Jongeren raken verstrikt in een situatie die steeds gevaarlijker wordt.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0109",
+    "title": "Payback",
+    "author": "Margje Woodrow",
+    "genres": [],
+    "summary": "Vlot geschreven thriller over wraak, keuzes en consequenties. Een ogenschijnlijk eenvoudige situatie loopt volledig uit de hand.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0110",
+    "title": "Kater",
+    "author": "Margje Woodrow",
+    "genres": [],
+    "summary": "Spannende youngadultthriller waarin een feest onverwachte gevolgen heeft. Geheimen en schuldgevoelens zorgen voor groeiende spanning.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0111",
+    "title": "De open era",
+    "author": "Edward Schmit",
+    "genres": [],
+    "summary": "Roman over sport, ambitie en identiteit. De hoofdpersoon probeert persoonlijke doelen en relaties in balans te brengen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0112",
+    "title": "Jimi Fender Johnson",
+    "author": "Buddy Tegenbosch",
+    "genres": [],
+    "summary": "Ontroerend verhaal over muziek, identiteit en jezelf durven zijn. Vriendschap en acceptatie spelen een belangrijke rol.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0113",
+    "title": "Bewijs het maar",
+    "author": "Lynn Painter",
+    "genres": [],
+    "summary": "Romantisch verhaal vol misverstanden, aantrekkingskracht en persoonlijke ontwikkeling. De hoofdpersonen leren elkaar én zichzelf beter kennen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0114",
+    "title": "Je hebt een nieuwe volger",
+    "author": "Chinouk Thijssen",
+    "genres": [],
+    "summary": "Actuele thriller over sociale media, online gedrag en stalking. Een onschuldige melding groeit uit tot een bedreigende situatie.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0115",
+    "title": "Jonas",
+    "author": "Jacobine de Brauw",
+    "genres": [],
+    "summary": "Toegankelijk verhaal over voetbal, ambitie en doorzettingsvermogen. De hoofdpersoon leert omgaan met tegenslagen en verwachtingen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0116",
+    "title": "Liften naar de hemel",
+    "author": "Lex Paleaux",
+    "genres": [],
+    "summary": "Roman over geloof, identiteit en de zoektocht naar betekenis. De personages worden geconfronteerd met belangrijke levensvragen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0117",
+    "title": "Nog 27 dagen leven",
+    "author": "Maren Stoffels",
+    "genres": [],
+    "summary": "Aangrijpend verhaal over vriendschap, ziekte en de waarde van tijd. De personages proberen het meeste uit hun leven te halen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0118",
+    "title": "Heartstopper 1",
+    "author": "Alice Oseman",
+    "genres": [],
+    "summary": "Graphic novel over vriendschap die uitgroeit tot verliefdheid. Een warm verhaal over jezelf durven zijn en acceptatie.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/13273895-L.jpg"
+  },
+  {
+    "isbn": "SEED-0119",
+    "title": "Heartstopper 2",
+    "author": "Alice Oseman",
+    "genres": [],
+    "summary": "Vervolg waarin relaties verder groeien en nieuwe uitdagingen ontstaan. Vertrouwen, identiteit en verbondenheid staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0120",
+    "title": "Heartstopper 3",
+    "author": "Alice Oseman",
+    "genres": [],
+    "summary": "De personages krijgen te maken met persoonlijke groei, vriendschap en liefde. Een positief verhaal over steun en acceptatie.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/13273895-L.jpg"
+  },
+  {
+    "isbn": "SEED-0121",
+    "title": "Niet mijn naam",
+    "author": "Megan Lally",
+    "genres": [],
+    "summary": "Spannende thriller waarin een meisje probeert te achterhalen wat er met haar is gebeurd. Geheimen en onverwachte onthullingen volgen elkaar op.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0122",
+    "title": "Mijn naam is Edino",
+    "author": "Edino van Dorsten",
+    "genres": [],
+    "summary": "Persoonlijk verhaal over opgroeien in een uitzonderlijke gezinssituatie. Veerkracht en de zoektocht naar een eigen identiteit staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0123",
+    "title": "Moordnacht",
+    "author": "Cis Meijer",
+    "genres": [],
+    "summary": "Jeugdthriller waarin een spannende nacht uitloopt op een gevaarlijk mysterie. De waarheid blijkt dichterbij dan gedacht.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0124",
+    "title": "No escape",
+    "author": "Cis Meijer",
+    "genres": [],
+    "summary": "Thriller waarin personages vast komen te zitten in een benauwende situatie. Angst, vertrouwen en overleven spelen een grote rol.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0125",
+    "title": "Game on",
+    "author": "Cis Meijer",
+    "genres": [],
+    "summary": "Jeugdthriller waarin spanning, geheimen en onverwachte gebeurtenissen elkaar snel opvolgen. De hoofdpersonen moeten samenwerken om een gevaarlijke situatie het hoofd te bieden.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0126",
+    "title": "Lief meisje kwaad bloed",
+    "author": "Holly Jackson",
+    "genres": [],
+    "summary": "Vervolg op een populaire thrillerreeks waarin een jonge onderzoeker opnieuw verstrikt raakt in een complexe zaak vol geheimen en risico’s.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0127",
+    "title": "Zo lief als de dood",
+    "author": "Holly Jackson",
+    "genres": [],
+    "summary": "Spannende youngadultthriller waarin niets is wat het lijkt. Verborgen motieven en onverwachte onthullingen zorgen voor voortdurende spanning.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0128",
+    "title": "Zweer het me",
+    "author": "Meagan Brandy",
+    "genres": [],
+    "summary": "Romantische roman over liefde, vertrouwen en loyaliteit. De hoofdpersonen worden geconfronteerd met moeilijke keuzes die hun toekomst bepalen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0129",
+    "title": "Sterren verpakt in huid",
+    "author": "Anna van Praag",
+    "genres": [],
+    "summary": "Indringende roman over identiteit, familie en persoonlijke groei. De personages zoeken naar verbinding en betekenis in een complexe wereld.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0130",
+    "title": "Missie Chinook",
+    "author": "Maarten Vissers",
+    "genres": [],
+    "summary": "Non-fictieverhaal over de luchtmacht en internationale missies. Het boek biedt inzicht in teamwork, verantwoordelijkheid en dienstbaarheid.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0131",
+    "title": "Alle regels overboord",
+    "author": "Vicki James",
+    "genres": [],
+    "summary": "Romantisch verhaal waarin liefde en persoonlijke vrijheid centraal staan. De hoofdpersonen ontdekken dat niet alles volgens plan verloopt.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0132",
+    "title": "Verlangen naar onschuld",
+    "author": "Lucinda Berry",
+    "genres": [],
+    "summary": "Psychologische thriller over familie, trauma en verborgen waarheden. Het verhaal onderzoekt de gevolgen van ingrijpende gebeurtenissen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0133",
+    "title": "Slaap zacht",
+    "author": "E.J. Tillema",
+    "genres": [],
+    "summary": "Thriller waarin spanning langzaam wordt opgebouwd en een reeks gebeurtenissen leidt tot een onverwachte ontknoping.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0134",
+    "title": "Gegijzeld",
+    "author": "Chinouk Thijssen",
+    "genres": [],
+    "summary": "Actuele jeugdthriller waarin jongeren te maken krijgen met een gevaarlijke situatie. Moed, samenwerking en doorzettingsvermogen zijn essentieel.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0135",
+    "title": "24 uur",
+    "author": "Marcel van Driel",
+    "genres": [],
+    "summary": "Vlot geschreven thriller waarin de personages onder grote tijdsdruk belangrijke keuzes moeten maken. Iedere beslissing heeft gevolgen.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - thriller",
+    "level": "2F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/15159548-L.jpg"
+  },
+  {
+    "isbn": "SEED-0136",
+    "title": "Full measures",
+    "author": "Rebecca Yarros",
+    "genres": [],
+    "summary": "Romantische roman over liefde, verlies en herstel. De hoofdpersonen proberen ondanks tegenslagen opnieuw richting aan hun leven te geven.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0137",
+    "title": "De deal",
+    "author": "Elle Kennedy",
+    "genres": [],
+    "summary": "Populaire newadultroman waarin een onverwachte afspraak leidt tot groeiende gevoelens. Humor, romantiek en persoonlijke ontwikkeling staan centraal.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0138",
+    "title": "De fout",
+    "author": "Elle Kennedy",
+    "genres": [],
+    "summary": "Vervolgroman over relaties, vertrouwen en de gevolgen van gemaakte keuzes. De personages worden geconfronteerd met hun kwetsbaarheden.",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "Boek - roman",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0139",
+    "title": "Beschermt deze AI-wet binnenkort jouw belangrijkste rechten, of is dat ijdele hoop?",
+    "author": "Noah Blom",
+    "genres": [
+      "https://www.quest.nl/tech/technologie/a71599373/beschermt-deze-ai-wet-binnenkort-jouw-belangrijkste-rechten-of-is-dat-ijdele-hoop/ [quest.nl]"
+    ],
+    "summary": "AI, wetgeving, grondrechten",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0140",
+    "title": "Vanaf 2 augustus wordt duidelijker of het AI is of echt",
+    "author": "Autoriteit Persoonsgegevens (redactie)",
+    "genres": [
+      "https://www.autoriteitpersoonsgegevens.nl/actueel/vanaf-2-augustus-wordt-duidelijker-of-het-ai-is-of-echt [autoriteit...egevens.nl]"
+    ],
+    "summary": "AI, privacy, deepfakes",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0141",
+    "title": "Transparantie-eisen voor AI: wat betekent dit voor u?",
+    "author": "Autoriteit Persoonsgegevens",
+    "genres": [
+      "https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/ai-verordening/transparantie-eisen-voor-ai-wat-betekent-dit-voor-u [autoriteit...egevens.nl]"
+    ],
+    "summary": "AI-verordening, rechten van burgers",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0142",
+    "title": "AI-verordening",
+    "author": "Autoriteit Persoonsgegevens",
+    "genres": [
+      "https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/ai-verordening [autoriteit...egevens.nl]"
+    ],
+    "summary": "Europese AI-wetgeving",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0143",
+    "title": "AP: AI-Impactbarometer kleurt rood, actie is noodzakelijk",
+    "author": "Autoriteit Persoonsgegevens",
+    "genres": [
+      "https://www.autoriteitpersoonsgegevens.nl/actueel/ap-ai-impactbarometer-kleurt-rood-actie-is-noodzakelijk [autoriteit...egevens.nl]"
+    ],
+    "summary": "AI, toezicht, discriminatie, recht",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0144",
+    "title": "Wat is een rechtsstaat?",
+    "author": "ProDemos",
+    "genres": [
+      "https://prodemos.nl/kennis/informatie-over-politiek/wat-is-een-rechtsstaat/ [prodemos.nl]"
+    ],
+    "summary": "Rechtsstaat, grondrechten, democratie",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0145",
+    "title": "Zorgen om jonge cybercriminelen met wapens: 'Dringend bredere aanpak nodig'",
+    "author": "Remco Andringa (NOS)",
+    "genres": [
+      "https://nos.nl/artikel/2524020-zorgen-om-jonge-cybercriminelen-met-wapens-dringend-bredere-aanpak-nodig [nos.nl]"
+    ],
+    "summary": "Criminaliteit, cybercrime, jeugdcriminaliteit",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0146",
+    "title": "Europol lanceert taskforce tegen online werving van jongeren door criminelen",
+    "author": "NOS/ANP",
+    "genres": [
+      "https://nos.nl/artikel/2565424-europol-lanceert-taskforce-tegen-online-werving-van-jongeren-door-criminelen [nos.nl]"
+    ],
+    "summary": "Criminaliteit, online ronselen",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0147",
+    "title": "Dit zijn de jongeren achter online oplichting: 'Het is een soort hype'",
+    "author": "Nina Jansen, David van Hulzen & Joost Schellevis",
+    "genres": [
+      "https://nos.nl/artikel/2456409-dit-zijn-de-jongeren-achter-online-oplichting-het-is-een-soort-hype [nos.nl]"
+    ],
+    "summary": "Fraude, cybercrime, strafrecht",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0148",
+    "title": "Gaat AI een rol spelen in de rechtspraak?",
+    "author": "KIJK-redactie",
+    "genres": [
+      "https://www.kijkmagazine.nl/artikel/robotrechtspraak/ [kijkmagazine.nl]"
+    ],
+    "summary": "Rechtspraak, AI, juridische innovatie",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0149",
+    "title": "UWV: aantal banen groeit nauwelijks meer tot 2027",
+    "author": "Laurens van Putten (NOS)",
+    "genres": [
+      "https://nos.nl/artikel/2569742-uwv-aantal-banen-groeit-nauwelijks-meer-tot-2027 [nos.nl]"
+    ],
+    "summary": "Werkgelegenheid, arbeidsmarkt",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0150",
+    "title": "Werkenden én gepensioneerden houden Nederlandse economie op de been",
+    "author": "NOS / ING Research",
+    "genres": [
+      "https://nos.nl/artikel/2593169-werkenden-en-gepensioneerden-houden-nederlandse-economie-op-de-been-verwacht-ing [nos.nl]"
+    ],
+    "summary": "Economie",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0151",
+    "title": "CPB: het gaat goed met de Nederlandse economie, maar de staatsschuld gaat oplopen",
+    "author": "NOS",
+    "genres": [
+      "https://nos.nl/artikel/2574465-cpb-het-gaat-goed-met-de-nederlandse-economie-maar-de-staatsschuld-gaat-oplopen [nos.nl]"
+    ],
+    "summary": "Economie, overheid",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0152",
+    "title": "Gebruik AI in het onderwijs",
+    "author": "Ministerie van OCW",
+    "genres": [
+      "https://www.rijksoverheid.nl/documenten/2025/09/19/gebruik-ai-in-het-onderwijs [rijksoverheid.nl]"
+    ],
+    "summary": "AI, onderwijs",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0153",
+    "title": "Nieuwe stap bij vernieuwing van curriculum",
+    "author": "Rijksoverheid",
+    "genres": [
+      "https://www.rijksoverheid.nl/actueel/nieuws/2025/09/01/nieuwe-stap-bij-vernieuwing-van-curriculum [rijksoverheid.nl]"
+    ],
+    "summary": "Onderwijs, burgerschap, AI",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0154",
+    "title": "Europese verboden op ongewenste AI-toepassingen ingegaan",
+    "author": "Rijksoverheid",
+    "genres": [
+      "https://www.rijksoverheid.nl/actueel/nieuws/2025/02/03/europese-verboden-op-ongewenste-ai-toepassingen-ingegaan [rijksoverheid.nl]"
+    ],
+    "summary": "AI, samenleving",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0155",
+    "title": "De wondere wereld van nachtvlinders",
+    "author": "De Vlinderstichting / Nature Today",
+    "genres": [
+      "https://www.naturetoday.com/intl/nl/nature-reports [naturetoday.com], [naturetoday.com]"
+    ],
+    "summary": "Natuur",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0156",
+    "title": "Boeren geven de zwarte stern vleugels in de Utrechtse Venen",
+    "author": "BoerenNatuur / Nature Today",
+    "genres": [
+      "https://www.naturetoday.com/intl/nl/nature-reports [naturetoday.com], [naturetoday.com]"
+    ],
+    "summary": "Natuur, biodiversiteit",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0157",
+    "title": "Tekorten zorgpersoneel nemen sneller toe, 'hoogste prioriteit' minister Agema",
+    "author": "NOS",
+    "genres": [
+      "https://nos.nl/artikel/2548636-tekorten-zorgpersoneel-nemen-sneller-toe-hoogste-prioriteit-minister-agema [nos.nl]"
+    ],
+    "summary": "Zorg, arbeidsmarkt",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel"
+  },
+  {
+    "isbn": "SEED-0158",
+    "title": "Nieuwe generatie fysiotherapeuten valt uit na enkele jaren",
+    "author": "Sander Zurhake (NOS)",
+    "genres": [
+      "https://nos.nl/artikel/2476626-nieuwe-generatie-fysiotherapeuten-valt-uit-na-enkele-jaren [nos.nl]"
+    ],
+    "summary": "Fysiotherapie, zorg",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "online artikel"
+  },
+  {
+    "isbn": "SEED-0159",
+    "title": "Jij bent de liefste",
+    "author": "Hans en Monique Hagen",
+    "genres": [],
+    "summary": "Familie, vriendschap, gevoelens",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "2F",
+    "imageUrl": "https://covers.openlibrary.org/b/id/12147363-L.jpg"
+  },
+  {
+    "isbn": "SEED-0160",
+    "title": "Kom maar op, ik ben top",
+    "author": "Edward van de Vendel",
+    "genres": [],
+    "summary": "Zelfvertrouwen, opgroeien, school",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0161",
+    "title": "Droom in blauwe regenjas",
+    "author": "Ted van Lieshout",
+    "genres": [],
+    "summary": "Herinneringen, gevoelens, identiteit",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0162",
+    "title": "Stel dat ik",
+    "author": "Hans Lodeizen",
+    "genres": [],
+    "summary": "Identiteit, dromen, verlangen",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0163",
+    "title": "Neem de tijd",
+    "author": "Joke van Leeuwen",
+    "genres": [],
+    "summary": "Dagelijks leven, mensen, verwondering",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0164",
+    "title": "Habitus",
+    "author": "Radna Fabias",
+    "genres": [],
+    "summary": "Identiteit, migratie, kansenongelijkheid",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0165",
+    "title": "Fantoommerrie",
+    "author": "Marieke Lucas Rijneveld",
+    "genres": [],
+    "summary": "Opgroeien, familie, mentale gezondheid",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F+",
+    "imageUrl": "https://covers.openlibrary.org/b/id/11277878-L.jpg"
+  },
+  {
+    "isbn": "SEED-0166",
+    "title": "Doe het toch maar",
+    "author": "Ingmar Heytze",
+    "genres": [],
+    "summary": "Liefde, werk, dagelijkse leven",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0167",
+    "title": "Neem en lees",
+    "author": "Ester Naomi Perquin",
+    "genres": [],
+    "summary": "Recht, menselijk gedrag, samenleving",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0168",
+    "title": "Mensen zonder uitstraling",
+    "author": "Daniël Dee",
+    "genres": [],
+    "summary": "Werk, stad, maatschappij",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0169",
+    "title": "Veldwerk",
+    "author": "Ellen Deckwitz",
+    "genres": [],
+    "summary": "Cultuur, identiteit, familie",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0170",
+    "title": "Kameleon",
+    "author": "Babs Gons",
+    "genres": [],
+    "summary": "Diversiteit, burgerschap, identiteit",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0171",
+    "title": "De zee is een hond",
+    "author": "Ruth Lasters",
+    "genres": [],
+    "summary": "Onderwijs, jongeren, kansen",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0172",
+    "title": "We zijn evenwijdig",
+    "author": "Maud Vanhauwaert",
+    "genres": [],
+    "summary": "Communicatie, taal, ontmoeting",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0173",
+    "title": "Ademgebed",
+    "author": "Mustafa Stitou",
+    "genres": [],
+    "summary": "Identiteit, cultuur, religie, samenleving",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "dichtbundel",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0174",
+    "title": "Wat betekent de AVG voor jou?",
+    "author": "Autoriteit Persoonsgegevens",
+    "genres": [
+      "https://www.autoriteitpersoonsgegevens.nl"
+    ],
+    "summary": "Privacy, persoonsgegevens, recht",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0175",
+    "title": "Vanaf 2 augustus wordt duidelijker of het AI is of echt",
+    "author": "Autoriteit Persoonsgegevens",
+    "genres": [
+      "https://www.autoriteitpersoonsgegevens.nl/actueel/vanaf-2-augustus-wordt-duidelijker-of-het-ai-is-of-echt [autoriteit...egevens.nl]"
+    ],
+    "summary": "AI, deepfakes, consumentenrecht",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0176-2",
+    "title": "Wat is een rechtsstaat?",
+    "author": "ProDemos",
+    "genres": [
+      "https://prodemos.nl/kennis/informatie-over-politiek/wat-is-een-rechtsstaat/ [prodemos.nl]"
+    ],
+    "summary": "Rechtsstaat, democratie, burgerschap",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0177-2",
+    "title": "Transparantie-eisen voor AI: wat betekent dit voor u?",
+    "author": "Autoriteit Persoonsgegevens",
+    "genres": [
+      "https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/ai-verordening/transparantie-eisen-voor-ai-wat-betekent-dit-voor-u [autoriteit...egevens.nl]"
+    ],
+    "summary": "AI-wetgeving, rechten van burgers",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "3F+"
+  },
+  {
+    "isbn": "SEED-0178",
+    "title": "Gaat AI een rol spelen in de rechtspraak?",
+    "author": "KIJK Magazine",
+    "genres": [
+      "https://www.kijkmagazine.nl/artikel/robotrechtspraak/ [kijkmagazine.nl]"
+    ],
+    "summary": "Rechtspraak, technologie, AI",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "3F"
+  },
+  {
+    "isbn": "SEED-0179",
+    "title": "Werk vinden in Nederland",
+    "author": "Het Begint met Taal",
+    "genres": [
+      "https://www.hetbegintmettaal.nl"
+    ],
+    "summary": "Werk, solliciteren, taal leren",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0180",
+    "title": "Hoe werkt DigiD?",
+    "author": "Steffie",
+    "genres": [
+      "https://www.steffie.nl"
+    ],
+    "summary": "Overheid, administratie, digitalisering",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0181",
+    "title": "Geldzaken regelen in Nederland",
+    "author": "Steffie",
+    "genres": [
+      "https://www.steffie.nl"
+    ],
+    "summary": "Financiën, administratie",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "2F"
+  },
+  {
+    "isbn": "SEED-0182-3",
+    "title": "Wat is een rechtsstaat?",
+    "author": "ProDemos",
+    "genres": [
+      "https://prodemos.nl/kennis/informatie-over-politiek/wat-is-een-rechtsstaat/ [prodemos.nl]"
+    ],
+    "summary": "Burgerschap, Nederland",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "2F-3F"
+  },
+  {
+    "isbn": "SEED-0183-2",
+    "title": "Nieuwe stap bij vernieuwing van curriculum",
+    "author": "Rijksoverheid",
+    "genres": [
+      "https://www.rijksoverheid.nl/actueel/nieuws/2025/09/01/nieuwe-stap-bij-vernieuwing-van-curriculum [rijksoverheid.nl]"
+    ],
+    "summary": "Onderwijs, burgerschap, AI",
+    "avgRating": 0,
+    "ratingCount": 0,
+    "materialType": "blogpost",
+    "level": "3F"
+  }
+]

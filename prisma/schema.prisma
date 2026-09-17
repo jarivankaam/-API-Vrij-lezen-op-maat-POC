@@ -7,9 +7,20 @@ datasource db {
 }
 
 model User {
-  id        Int      @id @default(autoincrement())
-  email     String   @unique
-  name      String
+  id           Int    @id @default(autoincrement())
+  email        String @unique
+  name         String
+  passwordHash String
+
+  // { permissions: string[], studentTypes: string[] }
+  accountRole Json @default("{\"permissions\": [], \"studentTypes\": []}")
+  // { bookId: string, rating: number, readAt: string }[]
+  booksRead   Json @default("[]")
+  // vrije notities/voortgang van de lezer
+  readerProfile Json @default("{}")
+  // { genres: string[], authors: string[], questions: string[] }
+  preferences Json @default("{\"genres\": [], \"authors\": [], \"questions\": []}")
+
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 

@@ -21,6 +21,15 @@ export class BooksController {
   findOne(@Param('id') id: string) {
     return this.booksService.findOne(id);
   }
+  @Get('/genre/:genre')
+  findOneByGenre(@Param('genre') genre: string) {
+    return this.booksService.findOneByGenre(genre);
+  }
+
+  @Get('/genre/all/:genre')
+  findAllByGenre(@Param('genre') genre: string) {
+    return this.booksService.findAllByGenre(genre);
+  }
 
   @Patch(':id')
   update(@Param('id') id: string, @Body() updateBookDto: UpdateBookDto) {

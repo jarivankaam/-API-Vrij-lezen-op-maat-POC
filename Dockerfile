@@ -15,8 +15,11 @@ FROM base AS runtime
 ENV NODE_ENV=production
 COPY --from=deps /app/node_modules ./node_modules
 COPY --from=build /app/dist ./dist
-COPY package.json prisma7.config.ts ./
+COPY package.json prisma7.config.ts tsconfig.json ./
 COPY prisma ./prisma
+COPY src/database/seed ./src/database/seed
+COPY src/books/schemas ./src/books/schemas
+COPY src/users/dto ./src/users/dto
 
 EXPOSE 3000
-CMD ["sh", "-c", "bun run prisma:deploy && bun run start:prod"]
+CMD ["sh", "-c", "bun run prisma:deploy && bun run seed:mongo && bun run seed:postgres && bun run start:prod"]
