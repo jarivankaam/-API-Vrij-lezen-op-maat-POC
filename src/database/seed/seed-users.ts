@@ -2,7 +2,7 @@ import { randomBytes, scryptSync } from 'node:crypto';
 import { readFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { PrismaPg } from '@prisma/adapter-pg';
-import { PrismaClient } from '@prisma/client';
+import { PrismaClient, type Prisma } from '@prisma/client';
 import type { AccountRole, BookReadEntry, UserPreferences } from '../../users/dto/create-user.dto.js';
 
 const SEED_FILE = fileURLToPath(new URL('./users.seed.json', import.meta.url));
@@ -40,7 +40,10 @@ async function seedUsers(): Promise<void> {
     await prisma.user.upsert({
       where: { email: user.email },
       update: {},
-      create: { ...user, passwordHash: hashPassword(SEED_PASSWORD) },
+      create: {
+        ...user,
+        passwordHash: hashPassword(SEED_PASSWORD),
+      } as unknown as Prisma.UserCreateInput,
     });
   }
 
